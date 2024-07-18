@@ -1,2 +1,3 @@
 # projeto-4
-Observe que você não precisa testar todo o aplicativo. Examine o que exatamente você precisa testar. Estude a documentação do aplicativo em cada tarefa. Ela está armazenada como uma lista de requisitos e designs, bem como requisitos para as URLs para as quais o aplicativo envia dados. etc
+
+<p>Acesse a <a href="https://docs.google.com/spreadsheets/d/1dX1P18YU6slpxFj_V95V7tIqjpO4nzcR/edit?usp=sharing&ouid=106279002743150233755&rtpof=true&sd=true">planilha Google Sheets aqui</a>.</p>
